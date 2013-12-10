@@ -1,7 +1,7 @@
 ArduinoMIDI
 ===========
 
-This project uses a tripple-axis acceleromter, MIDI shield, and Arduino micro-controller to create musical scales that can be manipulated using x, y, and z axis readings from the acceleromter.
+This project uses a tripple-axis acceleromter, MIDI shield, and Arduino micro-controller to create musical scales whose notes can be manipulated using x, y, and z axis readings from the acceleromter.
 
 Sparkfun info page (including data sheet) for LIS3LV02DQ accelerometer can be found here: https://www.sparkfun.com/products/retired/758
 
